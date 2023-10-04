@@ -1,4 +1,4 @@
-# travel-islamabad.github.io
+# travel-islamabad
 
 Travels  islamabad capital of pakistan.
 <br>
